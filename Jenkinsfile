@@ -20,4 +20,4 @@
 
 final kxlib = library('kxlib@development')
 
-library-release([:])
+libraryrelease([:])
