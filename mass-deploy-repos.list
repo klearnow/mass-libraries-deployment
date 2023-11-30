@@ -1,5 +1,3 @@
-kx-kafkalib
-kx-awslib
 kn-broker-proto-lib
 kx-grpcclientlib
 kxr-datamanager
