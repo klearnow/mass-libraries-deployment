@@ -1,3 +1,9 @@
+kx-commonlib
+kx-jmslib
+kx-protolib
+kn-loglib
+kx-kafkalib
+kx-awslib
 kn-broker-proto-lib
 kx-grpcclientlib
 kxr-datamanager
