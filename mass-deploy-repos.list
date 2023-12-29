@@ -5,6 +5,7 @@ kn-loglib
 kx-kafkalib
 kx-awslib
 kn-broker-proto-lib
+kn-engine-proto-lib
 kx-grpcclientlib
 kxr-datamanager
 kx-utillib
@@ -18,4 +19,3 @@ kn-b3-totals-lib
 kn-ncts-xsd-pojo
 isf-schema
 edi-lib
-kn-engine-proto-lib
